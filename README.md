@@ -1,4 +1,4 @@
-# ProjectProgramming1
+# Project Programming 1
 Final project for Programming 1 University course.
 
 ## Description
